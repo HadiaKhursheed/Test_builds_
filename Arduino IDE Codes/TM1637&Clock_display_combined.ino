@@ -1,4 +1,4 @@
-// TM1637 display + strip light digit display combined code:
+// TM1637 display + strip light digit display combined code
 #include <Wire.h>
 #include <RTClib.h>
 #include <NTPClient.h>
