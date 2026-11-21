@@ -1,4 +1,4 @@
-
+// Mini 11by 10 led strip display board code
 #include <ESP8266WiFi.h>
 #include <DNSServer.h>
 #include <ESPAsyncWebServer.h>
