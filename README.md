@@ -1,2 +1,2 @@
 # Test_builds_
-Repository that contains simple circuits and their guide.
+Repository that contains simple circuits/prototypes and their guide.
