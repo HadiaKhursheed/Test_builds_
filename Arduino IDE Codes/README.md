@@ -3,4 +3,5 @@
 3. **TM1637_starting_animation.ino** :- This code is for playing cool animation on TM1637 clock display & ESP8266. The animation can be used in any project with TM1637 as a loading animation.
 4. **Turn_OnOff_LED_onWeb.ino** :- Through this code we can turn the LED on-off over the Wi-Fi through webpage without any physical switch.
 5. **Automatic_stickman_jump.ino** :- Through this code we can test the working of stickman jump on oled screen.
-6. dd
+6. **Text_on_OLED.ino** :- Through this code we can display simple text on OLED screen.
+7. 
