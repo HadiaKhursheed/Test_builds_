@@ -4,4 +4,8 @@
 4. **Turn_OnOff_LED_onWeb.ino** :- Through this code we can turn the LED on-off over the Wi-Fi through webpage without any physical switch.
 5. **Automatic_stickman_jump.ino** :- Through this code we can test the working of stickman jump on oled screen.
 6. **Text_on_OLED.ino** :- Through this code we can display simple text on OLED screen.
-7. 
+7. **Lightup_full_OLED.ino** :- Used to check if all pixel of oled are working or not.
+8. **Spin_illusion_OLED.ino** :- Its uses mathematics in code to make spinning illusion.
+9. **Wave_illusion_OLED.ino** :- Its uses mathematics in code to make wave illusion.
+10. **Text_center_OLED.ino** :- It display any text in center of the OLED display.
+11. 
