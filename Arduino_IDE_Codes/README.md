@@ -17,5 +17,5 @@ Tested, working `.ino` sketches saved for quick reuse.
 | 11 | [`blinking_LED.ino`](./blinking_LED.ino) | Arduino / ESP | Basic LED blink test sketch. |
 | 12 | [`flashing_LED.ino`](./flashing_LED.ino) | Arduino / ESP | LED flashing pattern test sketch. |
 | 13 | [`TM1637_mobile_device.ino`](./TM1637_mobile_device.ino) | ESP8266 + TM1637 + Buttons | Wi-Fi Smart Clock, Weather & Alarm built on an ESP8266 microcontroller with TM1637, four push buttons & a buzzer. |
-
+| 14 | [`WS2812B_FastLED.ino`](./WS2812B_FastLED.ino) | ESP8266 + WS2812B Strip Light | This code drives a strip of WS2812B LEDs using the FastLED library, setting all LEDs to Red at roughly 20% brightness. |
 
